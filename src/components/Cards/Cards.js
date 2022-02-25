@@ -10,7 +10,7 @@ function Cards(props) {
           <div className="card-body">
             <h5 className="card-title">{props.title}</h5>
             <p className="card-text">{props.text}</p>
-            <a href="#" className="btn btn-primary">
+            <a href="#0" className="btn btn-primary">
               {props.linkText}
             </a>
           </div>
